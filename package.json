@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/msdewitt/meganote-sever/issues"
   },
-  "homepage": "https://github.com/msdewitt/meganote-sever#readme"
+  "homepage": "https://github.com/msdewitt/meganote-sever#readme",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
 }
